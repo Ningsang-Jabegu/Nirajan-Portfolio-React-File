@@ -8,6 +8,7 @@ defineProps({
 </script>
 
 <template>
+  <img src="/assets/images/Profile Picture.jpg" />
   <h1>{{ msg }}</h1>
   <p>Aaundai Xu Hai Ma Bato Ma I'm Walking, I'm Walking in the street of Thamel. Parkhi Bas!</p>
   <p>Comming Soon !</p>
