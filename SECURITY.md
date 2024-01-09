@@ -16,19 +16,19 @@ ${\color{lightgreen}{\textsf{This is the lighthouse calculation of my personal p
 ** For Desktop
 | Area | Value          |
 | ------- | ------------------ |
-| Performance   | 99 |
-| Accessibility   | 84 |
-| Best Practices   | 95 |
-| SEO*   | 90 |
+| Performance   | 88 |
+| Accessibility   | 73 |
+| Best Practices   | 100 |
+| SEO*   | 80 |
 | PWA*   | 0 |
 
 ** For Mobile
 | Area | Value          |
 | ------- | ------------------ |
-| Performance   | 89 |
-| Accessibility   | 84 |
-| Best Practices   | 91 |
-| SEO*   | 92 |
+| Performance   | 87 |
+| Accessibility   | 73 |
+| Best Practices   | 95 |
+| SEO*   | 83 |
 | PWA*   | 0 |
 
 *SEO => Search Engine Optimization <br>
