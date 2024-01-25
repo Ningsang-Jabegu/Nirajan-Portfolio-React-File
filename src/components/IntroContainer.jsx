@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import profile_pic from "../../public/images/Homepage/profile_picture.png";
 
 export default function IntroContainer(){
     return(
@@ -9,7 +10,7 @@ export default function IntroContainer(){
                 <button><a href="/public/resources/Resume-Nirajan.pdf" target="_blank">View CV <ion-icon name="eye"></ion-icon></a></button>
             </div>
             <div>
-                <img src="/public/images/Homepage/profile_picture.png" />
+                <img src={profile_pic} />
             </div>
         </main>
     )
